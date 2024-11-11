@@ -1,0 +1,18 @@
+{
+  "api_admin" : {
+    "api_port" : "9090",
+    "api_secret": "actual_secret"
+  },
+  "mysql" : {
+    "driver": "mysql",
+    "user": "root",
+    "pass_word": "password",
+    "host": "127.0.0.1",
+    "port": "3306",
+    "db_name": "test",
+    "charset": "utf8mb4",
+    "show_sql": "true",
+    "parseTime": "true",
+    "loc": "Asia/Shanghai"
+  }
+}
